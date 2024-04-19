@@ -19,5 +19,5 @@ If you believe your punishment was unjust, you can appeal it in our <a id="Disco
 #  
 If you ever witness a member of our staff team abusing their power or behaving problematically, please take a video clip and or screenshot (provided it constitutes sufficient evidence) that includes their PlayFabID. Then, submit a ticket on our <a id="Discord server,">https://discord.gg/ugJmbyAAZZ</> and we will conduct a thorough investigation.
 #  
-##<a id="MODS">https://docs.google.com/document/d/1VWgDD01k8vGQ6QFZq1IzLwc-l_VZN7LB0WS1stiIs5Q/edit?usp=sharing</>
+## <a id="**MODS**">https://docs.google.com/document/d/1VWgDD01k8vGQ6QFZq1IzLwc-l_VZN7LB0WS1stiIs5Q/edit?usp=sharing</>
 ![OG](https://roweflay.xyz/assets/og.png)
